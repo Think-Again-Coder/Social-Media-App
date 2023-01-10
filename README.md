@@ -24,6 +24,6 @@ This is an application designed for scale using MOngoDB and any popular social m
 --- 
 **Check out the deployed application:**
 ##
-[Social Media Application]() <--- Click Here!
+[Social Media Application](https://github.com/Think-Again-Coder/Social-Media-App) <--- Click Here!
 ## 
 ## - John Lopez -
