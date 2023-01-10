@@ -1,3 +1,4 @@
+// Using Mongoose to create the user inputs/thoughts/ reactions.
 const mongoose = require('mongoose');
 
 const reactionSchema = new mongoose.Schema(
