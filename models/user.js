@@ -1,3 +1,4 @@
+//This builds the user schema with Mongoose for the username,email, thoughts, and friends.
 const mongoose = require('mongoose')
 
 const userSchema = new mongoose.Schema(
